@@ -47,7 +47,7 @@ class Header extends React.Component {
       <div {...dataSource.user}>
         <span className="img" {...dataSource.user.img}>
           <img
-            src="https://zos.alipayobjects.com/rmsportal/iXsgowFDTJtGpZM.png"
+            src="https://gw.alipayobjects.com/zos/antfincdn/XAosXuNZyF/BiazfanxmamNRoxxVxka.png"
             width="100%"
             height="100%"
             alt="img"
