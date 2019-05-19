@@ -4,7 +4,7 @@ export const Nav10DataSource = {
   page: { className: 'home-page' },
   logo: {
     className: 'header1-logo jvui8alstxd-editor_css',
-    children: 'http://www.fzodc.top/static/o2p/asiainfo_log.png',
+    children: 'https://www.asiainfo.com/static/images/logo_navigation_bar.png',
   },
   Menu: {
     className: 'header1-menu',
