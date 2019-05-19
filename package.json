@@ -79,7 +79,12 @@
     "react-fittext": "^1.0.0",
     "react-json-view": "^1.19.1",
     "react-media": "^1.9.2",
-    "react-json-view": "latest",
+    "rc-banner-anim": "^2.1.0",
+    "rc-queue-anim": "^1.6.7",
+    "rc-scroll-anim": "^2.5.6",
+    "rc-texty": "^0.2.0",
+    "rc-tween-one": "^2.2.14",
+    "react-sublime-video": "^0.2.5",
     "umi": "^2.4.4",
     "umi-plugin-react": "^1.7.2",
     "umi-request": "^1.0.5"

@@ -1,7 +1,7 @@
 // https://umijs.org/config/
 import os from 'os';
 import pageRoutes from './router.api.config';
-import webpackPlugin from './plugin.config';
+// import webpackPlugin from './plugin.config';
 import defaultSettings from '../src/defaultSettings';
 import slash from 'slash2';
 
@@ -126,5 +126,5 @@ export default {
     basePath: '/',
   },
 
-  chainWebpack: webpackPlugin,
+  // chainWebpack: webpackPlugin,
 };

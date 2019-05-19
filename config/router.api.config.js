@@ -1,4 +1,6 @@
 export default [
+  // home
+  { path: '/', component: './Home' },
   // user
   {
     path: '/user',
@@ -19,12 +21,12 @@ export default [
   },
   // app
   {
-    path: '/',
+    path: '/apiGateway/apiList',
     component: '../layouts/BasicLayout',
     Routes: ['src/pages/Authorized'],
     routes: [
       // dashboard
-      { path: '/', name: 'home',redirect: '/apiGateway/apiList' },
+      // { path: '/', name: 'home',redirect: '/apiGateway/apiList' },
       // apiGateWay
       {
         path: '/apiGateway',
