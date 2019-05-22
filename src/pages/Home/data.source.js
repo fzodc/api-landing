@@ -41,7 +41,7 @@ export const Banner20DataSource = {
           className: 'banner2-content',
           children: (
             <>
-              <p>一个数据互联的世界，一个展现服务的世界</p>
+              <p>一个数据互联的缤纷世界，万物互联，让数据成为服务，让服务产生价值，构造数据服务生态链。</p>
             </>
           ),
         },
@@ -76,14 +76,14 @@ export const Content00DataSource = {
             className: 'content0-title',
             children: (
               <>
-                <p>Api消费者</p>
+                <p>Api订阅</p>
               </>
             ),
           },
           content: {
             children: (
               <>
-                <p>注册用户，好用服务向你敞开</p>
+                <p>提供行业标准API，缩短产品开发周期，轻量级集成层，获取有价值的数据</p>
               </>
             ),
           },
@@ -111,7 +111,7 @@ export const Content00DataSource = {
           content: {
             children: (
               <>
-                <p>您可以提供Api给第三方用户使用</p>
+                <p>通过平台注册服务能力，让服务产生价值。</p>
               </>
             ),
           },
@@ -128,8 +128,8 @@ export const Content00DataSource = {
             children:
               'https://zos.alipayobjects.com/rmsportal/EkXWVvAaFJKCzhMmQYiX.png',
           },
-          title: { className: 'content0-title', children: '一站式数据运营' },
-          content: { children: '沉淀产品接入效率和运营小二工作效率数据' },
+          title: { className: 'content0-title', children: '一站式运营' },
+          content: { children: '沉淀Api能力接入效率' },
         },
       },
     ],
@@ -147,7 +147,7 @@ export const Content10DataSource = {
     className: 'content1-title',
     children: (
       <>
-        <p>Api能力开放平台</p>
+        <p>能力开放平台</p>
       </>
     ),
   },
@@ -156,7 +156,7 @@ export const Content10DataSource = {
     children: (
       <>
         <p>
-          持续发布和部署，高可用及容灾。Api服务编排，协议转换，一键透传，您可以使用本平台提供的丰富api，也可以入驻平台，成为服务提供者。
+          组织个人/企业信息总线门户。数据与世界对接变得轻松。提供专业化信息安全，管理模式，盈利模式，推广模式，让您轻松获取利润。
         </p>
       </>
     ),
